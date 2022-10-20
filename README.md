@@ -13,7 +13,7 @@ patika dev proje
 
 2) Big-O gösterimini yazınız.
 
-O(n)
+O(n2)
 
 
 4) 18 sayısı dizinin ortasında bulunduğundan average case kapsamında değerlendirilir.
